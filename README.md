@@ -4,8 +4,9 @@
 Quick start:
 
 
-<h1> here is the link of the web site</h1>
-[ click here](https://poetic-rugelach-640b49.netlify.app/)
+<h1> Here is the link of the Web Site</h1>
+<h3>[ click here](https://poetic-rugelach-640b49.netlify.app/)</h3>
+<h4> when ever you refresh the you will get new background and new QUOTE with current date</h4>
 
 
 ```
