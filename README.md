@@ -11,7 +11,7 @@ Quick start:
 
 
 
- ![Alt text](https://github.com/Saquib-Anjum/Face-Detection-project-in-python/blob/master/result/Screenshot%202023-11-22%20110819.png](https://github.com/Saquib-Anjum/Poetic-Quote-Generator/blob/main/results/Screenshot%202024-01-30%20221452.png)https://github.com/Saquib-Anjum/Poetic-Quote-Generator/blob/main/results/Screenshot%202024-01-30%20221452.png)
+ ![Alt text](https://github.com/Saquib-Anjum/Poetic-Quote-Generator/blob/main/results/Screenshot%202024-01-30%20221521.png)
 
 ```
 $ npm install
