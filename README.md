@@ -9,6 +9,10 @@ Quick start:
 <h4> when ever you refresh the page, you will get new background and new QUOTE with current date</h4>
 
 
+
+
+ ![Alt text](https://github.com/Saquib-Anjum/Face-Detection-project-in-python/blob/master/result/Screenshot%202023-11-22%20110819.png](https://github.com/Saquib-Anjum/Poetic-Quote-Generator/blob/main/results/Screenshot%202024-01-30%20221452.png)https://github.com/Saquib-Anjum/Poetic-Quote-Generator/blob/main/results/Screenshot%202024-01-30%20221452.png)
+
 ```
 $ npm install
 $ npm start
